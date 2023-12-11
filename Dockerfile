@@ -1,6 +1,6 @@
 FROM python:3.11
 
-WORKDIR /paper-backend
+WORKDIR /paper_test_backend
 
 COPY requirements.txt .
 
